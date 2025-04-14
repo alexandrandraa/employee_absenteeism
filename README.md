@@ -22,7 +22,7 @@ This project analyzes the **Absenteeism at Work** dataset to understand employee
 
 ## Setup and Running
 1. **Download Dataset**: Save `Absenteeism_at_work.csv` from Kaggle/UCI to your working directory.
-2. **Install Dependencies**: Run `pip install pandas matplotlib seaborn scikit-learn`.
+2. **Install Dependencies**: Run `pip install pandas matplotlib seaborn`.
 3. **Run Notebook**:
    - Open Jupyter: `jupyter notebook`
    - Load the `.ipynb` file and execute cells sequentially.
